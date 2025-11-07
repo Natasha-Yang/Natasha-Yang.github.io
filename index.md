@@ -5,7 +5,7 @@ title: "About Me"
 3rd year Engineering Science (Machine Intelligence) student passionate about ML theory, computer vision, and reinforcement learning.
 
 # Research Experience
-###**Dynamic Graphics Project (DGP) Lab**
+### **Dynamic Graphics Project (DGP) Lab**
 - *Supervisor: Eitan Grinspun*
 - Improving the reading experience of graphic novels on ebooks using computer vision and NLP.
 
