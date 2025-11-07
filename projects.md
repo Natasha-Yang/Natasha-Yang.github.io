@@ -3,7 +3,6 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-# Projects
+# [FireNet] (https://github.com/Natasha-Yang/FireNet)
 
-- FireNet
-- Signal Processing in Magnetic Resonance Imaging
+# Signal Processing in Magnetic Resonance Imaging
