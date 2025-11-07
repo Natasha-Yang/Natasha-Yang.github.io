@@ -4,6 +4,10 @@ title: "About Me"
 ---
 3rd year Engineering Science (Machine Intelligence) student passionate about ML theory, computer vision, and reinforcement learning.
 
+## Professional Experience
+### RBC Capital Markets
+- Developing short term price prediction signals for algorithmic trading
+
 ## Research Experience
 ### Dynamic Graphics Project (DGP) Lab
 - *Supervisor: Eitan Grinspun*
