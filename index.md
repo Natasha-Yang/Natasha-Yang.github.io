@@ -15,8 +15,8 @@ title: "About Me"
 
 ### Vector Institute, University Health Network (DATA Team), & SickKids Hospital
 - *Supervisor: Michael Brudno*
-- Developed a **semi-supervised method** for neonatal brain MRI segmentation that leveraged partially annotated datasets. Addressed label scarcity in medical image segmentation and optimized clinical workflow by reducing reliance on manual annotations.
+- Developed a **semi-supervised method** for neonatal brain MRI segmentation that leveraged partially annotated datasets, optimizing clinical workflow.
 
 ### National University of Singapore
 - *Supervisor: Erik Birgersson*
-- Predicted and analyzed opto-electronic properties of perovskite solar cells (PSCs) using machine learning. Demonstrated the computational efficiency of deep learning methods compared to compared to density function theory (DFT). Provided valuable insights for PSC design and manufacturing.
+- Predicted and analyzed opto-electronic properties of perovskite solar cells (PSCs) using machine learning. Demonstrated the computational efficiency of deep learning methods compared to compared to density function theory (DFT).
