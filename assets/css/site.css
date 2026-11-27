@@ -1,4 +1,5 @@
 :root {
+  --page-width: 1040px;
   --bg: #faf7f2;
   --surface: #ffffff;
   --ink: #23201c;
@@ -51,7 +52,7 @@ a:hover { text-decoration-color: transparent; }
 /* ---------- Header ---------- */
 .site-header {
   width: 100%;
-  max-width: 820px;
+  max-width: var(--page-width);
   margin: 0 auto;
   padding: 2.25rem 1.5rem 1.5rem;
   display: flex;
@@ -96,7 +97,7 @@ a:hover { text-decoration-color: transparent; }
 .content {
   flex: 1;
   width: 100%;
-  max-width: 820px;
+  max-width: var(--page-width);
   margin: 0 auto;
   padding: 3rem 1.5rem 4rem;
 }
@@ -253,7 +254,7 @@ section[id] { scroll-margin-top: 2rem; }
 /* ---------- Footer ---------- */
 .site-footer {
   width: 100%;
-  max-width: 820px;
+  max-width: var(--page-width);
   margin: 0 auto;
   padding: 1.5rem;
   display: flex;
