@@ -3,7 +3,7 @@
 
 *CSC2626 project · 2026*
 
-- Learning low-dimensional **latent action spaces** from demonstrations using **autoencoders** to improve the sample efficiency of online **reinforcement learning** for dexterous hand manipulation.
+- We investigate whether low-dimensional latent action spaces learned from demonstrations using autoencoders improve the sample efficiency of online reinforcement learning for dexterous hand manipulation.
 
 <div class="project" markdown="1">
 <div class="thumb"><img src="{{ '/assets/images/difflm.png' | relative_url }}" alt="Diffusion language model for guided molecular generation"></div>
@@ -14,7 +14,7 @@
 
 *Capstone project · 2026*
 
-- Using **inpainting** techniques with a **diffusion language model (DiffLM)** to generate chemically valid, drug-like molecules while preserving reactive groups.
+- We develop a novel method for guiding a diffusion language model (DiffLM) to generate chemically valid, drug-like molecules while preserving reactive groups.
 </div>
 </div>
 
@@ -27,6 +27,6 @@
 
 *ECE324 project · 2025*
 
-- Adapted a **Temporal Vision Transformer** (Prithvi-100M) to predict wildfire spread using multi-spectral time-series data (see the [code](https://github.com/Natasha-Yang/FireNet)).
+- We adapt a Temporal Vision Transformer (Prithvi-100M) to predict wildfire spread from multispectral time-series data ([code](https://github.com/Natasha-Yang/FireNet)).
 </div>
 </div>
