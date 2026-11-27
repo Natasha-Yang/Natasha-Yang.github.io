@@ -14,8 +14,8 @@ sections:
     title: Projects
     file: projects.md
 ---
-I’m a fourth-year Engineering Science student specializing in Machine Intelligence at the University of Toronto. My research interests lie at the intersection of <span class="highlight">robot learning, reinforcement learning, and generative modeling</span>. My current research at [Prof. Florian Shkurti](https://www.cs.toronto.edu/~florian/)'s lab focuses on inference-time adaptation of pretrained robot policies, exploring how they can leverage new sensing modalities while retaining their generalist capabilities.
+I’m a fourth-year Engineering Science student specializing in Machine Intelligence at the University of Toronto. My research interests lie at the intersection of <span class="highlight">robot learning, reinforcement learning (RL), and generative modeling</span>. My current research at [Prof. Florian Shkurti](https://www.cs.toronto.edu/~florian/)'s lab focuses on inference-time adaptation of pretrained robot policies, exploring how they can leverage new sensing modalities while retaining their generalist capabilities.
 
-Previously, I was an AI Engineer at RBC Capital Markets, developing new features and simulation for a reinforcement learning trading platform at RBC Capital Markets. I also worked on building an agent harness for graphic media adaptaion with [Prof. Eitan Grinspun](https://www.dgp.toronto.edu/~eitan/) and semi-supervised medical image segmentation with [Prof. Michael Brudno](https://brudno.uhndata.io/).
+Previously, at RBC Capital Markets, I worked on improving the RL policies behind [Aiden](https://rbcborealis.com/research-blogs/aiden-reinforcement-learning-for-order-execution/), an electronic trading platform, and developing core components of its trading simulator. I've also had the privilege to work with [Prof. Eitan Grinspun](https://www.dgp.toronto.edu/~eitan/) on graphic media adaptation and [Prof. Michael Brudno](https://brudno.uhndata.io/) on semi-supervised medical image segmentation.
 
 I’m always happy to connect with people who share similar research interests. Feel free to reach out!
