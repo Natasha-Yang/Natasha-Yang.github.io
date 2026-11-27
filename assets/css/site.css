@@ -214,11 +214,6 @@ section[id] { scroll-margin-top: 2rem; }
   overflow: hidden;
   background: #fff;
   box-shadow: 0 0 0 1px var(--rule), 0 10px 24px -16px rgba(60, 30, 40, .4);
-  transition: transform .2s ease, box-shadow .2s ease;
-}
-.thumb:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 0 0 1px var(--accent), 0 14px 28px -16px rgba(60, 30, 40, .5);
 }
 .thumb img {
   display: block;
