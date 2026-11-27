@@ -235,7 +235,8 @@ section[id] { scroll-margin-top: 2rem; }
   padding: 6px;
 }
 
-.entries h3 + p { margin: 0 0 .4rem; }
+.entries h3 + p { margin: 0 0 .1rem; }
+.entries h3 + p + p { margin: 0 0 .6rem; }
 .entries h3 a {
   color: inherit;
   text-decoration-color: var(--accent);
