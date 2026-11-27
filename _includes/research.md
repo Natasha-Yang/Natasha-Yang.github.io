@@ -1,8 +1,3 @@
----
-layout: page
-title: "Research"
----
-
 ### Dynamic Graphics Project (DGP) Lab
 - *Supervisor: Eitan Grinspun*
 - Improving the reading experience of graphic novels on ebooks using computer vision and NLP.

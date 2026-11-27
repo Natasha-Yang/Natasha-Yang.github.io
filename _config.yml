@@ -4,10 +4,8 @@ github_username: Natasha-Yang
 
 nav:
   - title: About
-    url: /
+    url: /#about
   - title: Research
-    url: /research.html
-  - title: Experience
-    url: /professional_experience.html
+    url: /#research
   - title: Projects
-    url: /projects/
+    url: /#projects

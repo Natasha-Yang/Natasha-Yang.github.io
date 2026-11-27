@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<section class="hero">
+<section class="hero" id="about">
   <img class="portrait" src="{{ page.photo | relative_url }}" alt="Portrait of {{ site.title }}">
   <div class="intro">
     <p class="eyebrow">{{ page.title }}</p>
@@ -14,3 +14,13 @@ layout: default
     {% endif %}
   </div>
 </section>
+
+{% for section in page.sections %}
+<section class="section" id="{{ section.id }}">
+  <h2 class="section-title">{{ section.title }}</h2>
+  <div class="entries">
+    {% capture body %}{% include {{ section.file }} %}{% endcapture %}
+    {{ body | markdownify }}
+  </div>
+</section>
+{% endfor %}

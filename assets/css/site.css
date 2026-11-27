@@ -160,6 +160,22 @@ h1, h2, h3 {
   color: var(--accent);
 }
 
+/* ---------- Home sections ---------- */
+html { scroll-behavior: smooth; }
+section[id] { scroll-margin-top: 2rem; }
+
+.section {
+  margin-top: 4.5rem;
+  padding-top: 3rem;
+  border-top: 1px solid var(--rule);
+}
+
+.section-title {
+  font-size: clamp(2.1rem, 4.5vw, 2.6rem);
+  font-weight: 500;
+  margin: 0 0 1.75rem;
+}
+
 /* ---------- Inner pages ---------- */
 .page-title {
   font-size: clamp(2.3rem, 5vw, 3rem);
