@@ -6,6 +6,11 @@
 *Capstone project · 2026*
 - Using **inpainting** techniques with a **diffusion language model (DiffLM)** to generate chemically valid, drug-like molecules while preserving reactive groups.
 
-### Spatio-temporal Multimodal Wildfire Spread Prediction: Exploring Vision Transformers and Lightweight Models
+<div class="project" markdown="1">
+<a class="thumb" href="{{ '/assets/images/firenet.png' | relative_url }}"><img src="{{ '/assets/images/firenet.png' | relative_url }}" alt="FireNet architecture: Prithvi pre-training and fine-tuning pipeline"></a>
+<div markdown="1">
+### [Spatio-temporal Multimodal Wildfire Spread Prediction: Exploring Vision Transformers and Lightweight Models](https://drive.google.com/file/d/1FaJLyU_S9xXO35y64ICSxb-d2pCG9n_2/view)
 *ECE324 project · 2025*
-- Adapted a **Temporal Vision Transformer** (Prithvi-100M) to predict wildfire spread using multi-spectral time-series data (see the [paper](https://drive.google.com/file/d/1FaJLyU_S9xXO35y64ICSxb-d2pCG9n_2/view) and [code](https://github.com/Natasha-Yang/FireNet)).
+- Adapted a **Temporal Vision Transformer** (Prithvi-100M) to predict wildfire spread using multi-spectral time-series data (see the [code](https://github.com/Natasha-Yang/FireNet)).
+</div>
+</div>
