@@ -2,16 +2,18 @@
 layout: default
 ---
 <section class="hero" id="about">
-  <img class="portrait" src="{{ page.photo | relative_url }}" alt="Portrait of {{ site.title }}">
-  <div class="intro">
-    <p class="eyebrow">{{ page.title }}</p>
-    <h1 class="hero-name">{{ site.title }}</h1>
-    {{ content }}
+  <div class="hero-aside">
+    <img class="portrait" src="{{ page.photo | relative_url }}" alt="Portrait of {{ site.title }}">
     {% if page.interests %}
       <ul class="tags">
         {% for tag in page.interests %}<li>{{ tag }}</li>{% endfor %}
       </ul>
     {% endif %}
+  </div>
+  <div class="intro">
+    <p class="eyebrow">{{ page.title }}</p>
+    <h1 class="hero-name">{{ site.title }}</h1>
+    {{ content }}
   </div>
 </section>
 

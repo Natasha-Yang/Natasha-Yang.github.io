@@ -111,15 +111,23 @@ h1, h2, h3 {
 /* ---------- Home ---------- */
 .hero {
   display: grid;
-  grid-template-columns: 240px 1fr;
+  grid-template-columns: 220px 1fr;
   gap: 3rem;
-  align-items: center;
+  align-items: start;
   padding-top: 1rem;
 }
 
+.hero-aside {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  padding-top: .75rem;
+}
+
 .portrait {
-  width: 240px;
-  height: 240px;
+  width: 220px;
+  height: 220px;
   border-radius: 50%;
   object-fit: cover;
   object-position: 50% 35%;
@@ -143,13 +151,16 @@ h1, h2, h3 {
 }
 
 .intro p { margin: 0 0 1rem; }
+.intro p:last-child { margin-bottom: 0; }
+.highlight { color: var(--accent); }
 
 .tags {
   list-style: none;
   padding: 0;
-  margin: 1.5rem 0 0;
+  margin: 0;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: .5rem;
 }
 .tags li {
@@ -262,11 +273,11 @@ section[id] { scroll-margin-top: 2rem; }
   .hero {
     grid-template-columns: 1fr;
     gap: 1.75rem;
-    justify-items: center;
-    text-align: center;
   }
+  .hero-aside { padding-top: 0; gap: 1.25rem; }
   .portrait { width: 190px; height: 190px; }
-  .tags { justify-content: center; }
+  .intro .eyebrow,
+  .intro .hero-name { text-align: center; }
   .project { grid-template-columns: 1fr; gap: 1rem; }
   .thumb { max-width: 320px; }
 }
