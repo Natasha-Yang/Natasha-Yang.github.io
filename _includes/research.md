@@ -1,15 +1,3 @@
-### Dynamic Graphics Project (DGP) Lab
-- *Supervisor: Eitan Grinspun*
-- Improving the reading experience of graphic novels on ebooks using computer vision and NLP.
-
-### Vector Institute, University Health Network (DATA Team), & SickKids Hospital
-- *Supervisor: Michael Brudno*
-- Developed a **semi-supervised method** for neonatal brain MRI segmentation that leveraged partially annotated datasets, optimizing clinical workflow.
-
-### National University of Singapore
-- *Supervisor: Erik Birgersson*
-- Predicted and analyzed opto-electronic properties of perovskite solar cells (PSCs) using machine learning. Demonstrated the computational efficiency of deep learning methods compared to density functional theory (DFT).
-
-### Behavioural Economics in Action at Rotman
-- *Supervisor: Dilip Soman*
-- Behavioural economics research focusing on market segmentation.
+### Multimodal Steering of Pretrained Generative Robot Policies
+- *Undergraduate Thesis*
+- Developing a human-in-the-loop RL approach to extend pretrained vision-language-action (VLA) models with force and tactile inputs while preserving visual and semantic robustness
