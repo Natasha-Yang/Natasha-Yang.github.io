@@ -15,7 +15,7 @@
     <a class="site-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
     <nav class="site-nav">
       {% for item in site.nav %}
-        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        <a href="{{ item.url | relative_url }}"{% if item.url contains "://" %} target="_blank" rel="noopener"{% endif %}>{{ item.title }}</a>
       {% endfor %}
     </nav>
   </header>
