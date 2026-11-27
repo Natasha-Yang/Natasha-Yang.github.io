@@ -21,3 +21,4 @@ Currently, I work with [Prof. Florian Shkurti](https://www.cs.toronto.edu/~flori
 I’m always happy to connect with people who share similar research interests!
 
 [GitHub](https://github.com/Natasha-Yang)
+[LinkedIn](https://www.linkedin.com/in/natasha-yang-64a35a1a5/)
