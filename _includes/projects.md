@@ -8,5 +8,4 @@
 
 ### Spatio-temporal Multimodal Wildfire Spread Prediction: Exploring Vision Transformers and Lightweight Models
 *ECE324 project · 2025*
-- Adapted a **Temporal Vision Transformer** (Prithvi-100M) to predict wildfire spread using multi-spectral time-series data.
-- **Paper:** [PDF](https://drive.google.com/file/d/1FaJLyU_S9xXO35y64ICSxb-d2pCG9n_2/view) · **Code:** [FireNet](https://github.com/Natasha-Yang/FireNet)
+- Adapted a **Temporal Vision Transformer** (Prithvi-100M) to predict wildfire spread using multi-spectral time-series data (see the [paper](https://drive.google.com/file/d/1FaJLyU_S9xXO35y64ICSxb-d2pCG9n_2/view) and [code](https://github.com/Natasha-Yang/FireNet)).

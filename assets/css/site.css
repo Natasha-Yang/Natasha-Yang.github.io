@@ -195,6 +195,8 @@ section[id] { scroll-margin-top: 2rem; }
   border-top: none;
 }
 
+.entries h3 + p { margin: 0 0 .4rem; }
+
 .entries ul {
   margin: 0;
   padding-left: 1.1rem;
