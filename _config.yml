@@ -1,2 +1,13 @@
-remote_theme: "jekyll/minima@1e8a445"
 title: Natasha Yang
+description: Engineering Science (Machine Intelligence) student working on ML theory, computer vision, and reinforcement learning.
+github_username: Natasha-Yang
+
+nav:
+  - title: About
+    url: /
+  - title: Research
+    url: /research.html
+  - title: Experience
+    url: /professional_experience.html
+  - title: Projects
+    url: /projects/

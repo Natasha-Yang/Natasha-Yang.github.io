@@ -13,7 +13,7 @@ title: "Research"
 
 ### National University of Singapore
 - *Supervisor: Erik Birgersson*
-- Predicted and analyzed opto-electronic properties of perovskite solar cells (PSCs) using machine learning. Demonstrated the computational efficiency of deep learning methods compared to compared to density function theory (DFT).
+- Predicted and analyzed opto-electronic properties of perovskite solar cells (PSCs) using machine learning. Demonstrated the computational efficiency of deep learning methods compared to density functional theory (DFT).
 
 ### Behavioural Economics in Action at Rotman
 - *Supervisor: Dilip Soman*

@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: home
 title: "About Me"
+photo: /assets/images/profile.jpg
+interests:
+  - ML theory
+  - Computer vision
+  - Reinforcement learning
 ---
-3rd year Engineering Science (Machine Intelligence) student passionate about ML theory, computer vision, and reinforcement learning.
-
-<img src="/assets/images/profile.png" alt="Profile photo" width="30%"/>
+4th year Engineering Science (Machine Intelligence) student at the University of Toronto
