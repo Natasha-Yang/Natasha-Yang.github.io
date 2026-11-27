@@ -2,10 +2,10 @@
 layout: home
 title: "About Me"
 photo: /assets/images/profile.jpg
-interests:
-  - Robot learning
-  - Reinforcement learning
-  - Generative modeling
+# interests:
+#   - Robot learning
+#   - Reinforcement learning
+#   - Generative modeling
 sections:
   - id: research
     title: Research
